@@ -232,9 +232,21 @@ footer {
     padding: 0 50px; } }
 @media screen and (max-width: 1280px) {
   .content {
-    max-width: 1130px; }
+    max-width: 1170px; }
 
   footer {
-    max-width: 1130px; } }
+    max-width: 1170px; } }
+@media screen and (max-width: 1024px) {
+  .content {
+    max-width: 930px; }
+
+  footer {
+    max-width: 930px; } }
+@media screen and (max-width: 768px) {
+  .content {
+    max-width: 670px; }
+
+  footer {
+    max-width: 670px; } }
 
 /*# sourceMappingURL=main.css.map */
